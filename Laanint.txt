@@ -8,7 +8,7 @@
       "version": "1",
       "download": "",
       "app_live": "1",
-      "package_name": "com.moxmin.modxapkxx",
+      "package_name": "com.getloansarjunt.getpersnoal",
       "app_date": "2023-01-18",
       "ac_name": "Unknown",
       "app_logo": "2023011805202.png",
@@ -94,7 +94,7 @@
   "custom_ads": [
     {
       "id": 74,
-      "app_name": "com.moxmin.modxapkxx",
+      "app_name": "com.getloansarjunt.getpersnoal",
       "logo": "2023011805212.png",
       "main_desc": "How to install",
       "short_desc": "How to install",
