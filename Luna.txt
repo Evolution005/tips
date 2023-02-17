@@ -1,5 +1,5 @@
 {
-	"adstatus": false,
+	"adstatus": true,
 	"specificad": true,
 	"alternatead": false,
 	"alternate_data": {
@@ -10,10 +10,10 @@
 	},
 	"Admob": {
 		"Admob_adstatus": true,
-		"Admob_Appopen": "ca-app-pub-3940256099942544/3419835294",
-		"Admob_Interstrial": "ca-app-pub-3940256099942544/1033173712",
-		"Admob_Native": "ca-app-pub-3940256099942544/2247696110",
-		"Admob_Banner": "ca-app-pub-3940256099942544/6300978111"
+		"Admob_Appopen": "/22349270898,22855712463/dbb291be-c976-48e7-9318-f87028a9930c/108bcae0-cd1b-400e-9af1-7371e1b108c1/108bcae0-cd1b-400e-9af1-7371e1b108c1-last",
+		"Admob_Interstrial": "/22349270898,22855712463/dbb291be-c976-48e7-9318-f87028a9930c/7769d582-cea5-4672-90ac-f2ee64aefa68/7769d582-cea5-4672-90ac-f2ee64aefa68-last",
+		"Admob_Native": "/22349270898,22855712463/dbb291be-c976-48e7-9318-f87028a9930c/bebdf971-f783-4571-ae66-578df8b62061/bebdf971-f783-4571-ae66-578df8b62061-last",
+		"Admob_Banner": "/22349270898,22855712463/dbb291be-c976-48e7-9318-f87028a9930c/eb276be0-9398-4a38-b41d-689be88bd5cd/eb276be0-9398-4a38-b41d-689be88bd5cd-last"
 	},
 	"Facebook": {
 		"FB_adstatus": false,
@@ -37,8 +37,8 @@
 	"NativeBlink": true,
 	"NativeBanner": true,
 	"AdDialog": true,
-	"BackAd": true,
+	"BackAd": false,
 	"BackAdPlatform": "Facebook",
-	"ExtraScreen": "0",
+	"ExtraScreen": "3",
 	"PrivacyPolicy": ""
 }
