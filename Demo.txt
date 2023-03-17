@@ -1,0 +1,130 @@
+{
+  "facebook_banner_ad_id": "",
+  "facebook_bottom_native_ad_id": "",
+  "facebook_interstitial_ad_id": "",
+  "facebook_native_ad_id": "",
+  "admob_appopen_ad_id": [
+    "https://d2isj403unfbyl.cloudfront.net",
+    "https://backend.northghost.com",
+    "https://api-stage.northghost.com",
+    "https://api-prod.northghost.com",
+    "https://api-dev.northghost.com",
+    "https://developer.aura.com"
+  ],
+  "admob_banner_ad_id": [
+    "https://d2isj403unfbyl.cloudfront.net",
+    "https://backend.northghost.com",
+    "https://api-stage.northghost.com",
+    "https://api-prod.northghost.com",
+    "https://api-dev.northghost.com",
+    "https://developer.aura.com"
+  ],
+  "admob_bottom_native_ad_id": [
+    "https://d2isj403unfbyl.cloudfront.net",
+    "https://backend.northghost.com",
+    "https://api-stage.northghost.com",
+    "https://api-prod.northghost.com",
+    "https://api-dev.northghost.com",
+    "https://developer.aura.com"
+  ],
+  "admob_interstitial_ad_id": [
+    "https://d2isj403unfbyl.cloudfront.net",
+    "https://backend.northghost.com",
+    "https://api-stage.northghost.com",
+    "https://api-prod.northghost.com",
+    "https://api-dev.northghost.com",
+    "https://developer.aura.com"
+  ],
+  "admob_native_ad_id": [
+    "https://d2isj403unfbyl.cloudfront.net",
+    "https://backend.northghost.com",
+    "https://api-stage.northghost.com",
+    "https://api-prod.northghost.com",
+    "https://api-dev.northghost.com",
+    "https://developer.aura.com"
+  ],
+  "ads_type": "admob",
+  "admob_reward_ad_id": "",
+  "unity_ad_id": "",
+  "bottom_ads_type": "admob",
+  "ads_click": 0,
+  "back_click": 0,
+  "native_page_wise": 0,
+  "reward_ad_type": "admob",
+  "one_id_load_thay_hoy_ne": false,
+  "vpn_show": false,
+  "vpn_id": "",
+  "vpn_passsword": "",
+  "vpn_direct_connect": false,
+  "vpn_random_server": false,
+  "vpn_main_show": false,
+  "vpn_country_name": "",
+  "vpn_country_code": "",
+  "vpn_thumbnail_url": "",
+  "vpn_url_type": false,
+  "vpn_url_arrays": [
+    "https://d2isj403unfbyl.cloudfront.net",
+    "https://backend.northghost.com",
+    "https://api-stage.northghost.com",
+    "https://api-prod.northghost.com",
+    "https://api-dev.northghost.com",
+    "https://developer.aura.com"
+  ],
+  "vpn_url_default": "https://backend.northghost.com",
+  "emergency": false,
+  "version_code": "1",
+  "version_name": "1",
+  "admob_native_btn_text_color": "#ffffff",
+  "admob_native_context_text_color": "#ffffff",
+  "analytics": false,
+  "coming_soon": false,
+  "starting_screen_content_show": 1,
+  "privacy_policy": "",
+  "quizzo_link": "",
+  "quizzo_show": false,
+  "quizzo_header_show": false,
+  "country_list": [
+    {
+      "image": "/upload/countryimg-1653906499006.png",
+      "name": "United States",
+      "countrycode": "US",
+      "_id": "64146ea6a13df2e3e901cd73"
+    },
+    {
+      "image": "/upload/countryimg-1653906569437.png",
+      "name": "Canada",
+      "countrycode": "CA",
+      "_id": "64146ea6a13df2e3e901cd74"
+    },
+    {
+      "image": "/upload/countryimg-1653906593994.svg",
+      "name": "United Kingdom",
+      "countrycode": "GB",
+      "_id": "64146ea6a13df2e3e901cd75"
+    },
+    {
+      "image": "/upload/countryimg-1653906613627.png",
+      "name": "Switzerland",
+      "countrycode": "CH",
+      "_id": "64146ea6a13df2e3e901cd76"
+    },
+    {
+      "image": "/upload/countryimg-1654583421122.png",
+      "name": "Norway",
+      "countrycode": "NO",
+      "_id": "64146ea6a13df2e3e901cd77"
+    },
+    {
+      "image": "/upload/countryimg-1669012281096.png",
+      "name": "Germany",
+      "countrycode": "DE",
+      "_id": "64146ea6a13df2e3e901cd78"
+    },
+    {
+      "image": "/upload/countryimg-1669012318021.png",
+      "name": "Australia",
+      "countrycode": "AU",
+      "_id": "64146ea6a13df2e3e901cd79"
+    }
+  ]
+}
